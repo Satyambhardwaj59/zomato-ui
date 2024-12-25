@@ -26,7 +26,7 @@
                 
             },
             "costForTwo": 150,
-            "avgRating": 4.3,
+            "avgRating": 3,
             "deliveryTime": 40,
             "sure_points_multiplier_data": null,
             "coupons_with_best_promotion": [
@@ -140,7 +140,7 @@
                 
             },
             "costForTwo": 220,
-            "avgRating": 4.1,
+            "avgRating": 3.9,
             "deliveryTime": 30,
             "sure_points_multiplier_data": null,
             "coupons_with_best_promotion": [
@@ -330,7 +330,7 @@
                 
             },
             "costForTwo": 160,
-            "avgRating": 4.5,
+            "avgRating": 3.5,
             "deliveryTime": 20,
             "sure_points_multiplier_data": null,
             "coupons_with_best_promotion": [
@@ -406,7 +406,7 @@
                 
             },
             "costForTwo": 300,
-            "avgRating": 4.4,
+            "avgRating": 2,
             "deliveryTime": 30,
             "sure_points_multiplier_data": null,
             "coupons_with_best_promotion": [

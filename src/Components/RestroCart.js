@@ -1,4 +1,5 @@
 import { background } from "../utils/constant";
+import { MOOK_URL } from "../utils/constant";
 
 const RestroCart = (props) => {
 
@@ -14,9 +15,9 @@ const RestroCart = (props) => {
             <div className="cart-desc">                
                 <h3>{brand_name}</h3>
                 <h4>{description}</h4>
-                <h4>{costForTwo + " Cost For Two"}</h4>
+                {/* <h4>{costForTwo + " Cost For Two"}</h4>
                 <h4>{avgRating + " star"}</h4>
-                <h4>{" Delivary time " + deliveryTime + " min"}</h4>
+                <h4>{" Delivary time " + deliveryTime + " min"}</h4> */}
             </div>
         </div>
     )
